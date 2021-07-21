@@ -1,2 +1,1 @@
-#typeos
 my_sim_clone...????
